@@ -5,7 +5,7 @@ This datapipeline focuses on processing a Lacrosse game’s live data, that crea
 
 ## Data Pipeline: 
 
-<img align="center" src="Lacrosse_DataPipeline.png">
+<img align="center" src="IST 769 Advanced Big Data/Midterm Project Case Study/Lacrosse_DataPipeline.png">
 
 ## Services Used: 
 ### Databases: 
